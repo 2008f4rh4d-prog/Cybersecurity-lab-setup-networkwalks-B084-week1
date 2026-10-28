@@ -88,9 +88,13 @@ Then navigate to this and use the same settings and click apply.
 
 Start you kali linux machine and Move to there. 
 
-<img width="295" height="133" alt="image" src="https://github.com/user-attachments/assets/5571e17b-c823-4543-8686-37b1e8501d1f" />
+
+
+
+
 
 Use the same settings.
+
 
 
 

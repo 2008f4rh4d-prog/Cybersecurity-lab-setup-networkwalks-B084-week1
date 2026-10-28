@@ -56,20 +56,18 @@ So this is basically the project task from `NETWORKWALKS-INTERNSHIP-BATCH-B084` 
 ## 🪜 Step-by-Step Practical Build
 
 ### Phase 1: Install 7-zip & Extract the kali linux 
-<img width="527" height="54" alt="image" src="https://github.com/user-attachments/assets/6f10ddfe-d2a4-4113-bde4-0ef4a3a849df" />
+<img width="1038" height="94" alt="Screenshot 2026-10-28 104959" src="https://github.com/user-attachments/assets/874b1e28-bc6e-4884-9dc7-1603871f91f8" />
 
 ---
 
 ### Phase 2: Moving kali linux files ISO,VDI into VM Box
-<img width="523" height="79" alt="image" src="https://github.com/user-attachments/assets/ef8f4184-2e48-43bd-b0fa-833ff0484e5d" />
-
-
-<img width="659" height="288" alt="image" src="https://github.com/user-attachments/assets/332a6641-febd-4ff5-8fde-29c07c69c8ac" />
+<img width="1062" height="203" alt="Screenshot 2026-10-28 105106" src="https://github.com/user-attachments/assets/c6ce3940-a8c0-48ac-98ae-707e254b0233" />
 
 
 Select the new button then import the VM file. VDI,ISO
 
-<img width="700" height="408" alt="image" src="https://github.com/user-attachments/assets/1199a65d-99f1-42bb-8c24-f8bc8ba01899" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/120ff560-6ea0-4ae5-8e2d-2144dc18e36b" />
+
 
 visit to the file location and select it it will imported automatically just named it and click Finish.
 
@@ -78,17 +76,17 @@ visit to the file location and select it it will imported automatically just nam
 ### Phase 3: Configuring the Network
 Click that tabs.
 
-<img width="963" height="539" alt="image" src="https://github.com/user-attachments/assets/7d13d016-413b-4a12-ad5e-b8473058b79e" />
+<img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/ab9a03b7-d682-4a91-8c8f-2b6f8a02405c" />
 
 Then navigate to this and use the same settings and click apply.
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/edc5efa3-b5d4-4e2b-9df4-7a91a7a2867a" />
+<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/e14c0b44-8e62-414e-8c12-8523010d4fdf" />
 
 ```
 ```
 ### Phase 4: Working with kali linux 
 
-Move there 
+Start you kali linux machine and Move to there. 
 
 <img width="295" height="133" alt="image" src="https://github.com/user-attachments/assets/5571e17b-c823-4543-8686-37b1e8501d1f" />
 

@@ -83,11 +83,13 @@ Then navigate to this and use the same settings and click apply.
 
 <img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/e14c0b44-8e62-414e-8c12-8523010d4fdf" />
 
-```
-```
+
 ### Phase 4: Working with kali linux 
 
 Start you kali linux machine and Move to there.
+
+
+
 
 
 

@@ -95,6 +95,17 @@ Use the same settings
 
 <img width="707" height="318" alt="Screenshot 2026-10-28 124013" src="https://github.com/user-attachments/assets/dc45b50b-a9ac-4d24-9696-1e83db18e5d8" />
 
+### Phase 5: Checking the ip and network connection.
+Check that the connection is now working or not.
+
+<img width="1220" height="441" alt="Screenshot 2026-10-28 124145" src="https://github.com/user-attachments/assets/b963fe61-af3c-40da-a94a-22d7fd5a424e" />
+
+looking for IP if its changed or not.
+
+<img width="299" height="100" alt="Screenshot 2026-10-28 124102" src="https://github.com/user-attachments/assets/fb3bf474-7040-4c75-9d64-91e0d8d72641" />
+
+And yeah everything worked smoothly so now we can be able to move forward and configure the same ip connection with other OS systems.
+
 
 ---
 

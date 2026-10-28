@@ -104,7 +104,7 @@ looking for IP if its changed or not.
 
 <img width="299" height="100" alt="Screenshot 2026-10-28 124102" src="https://github.com/user-attachments/assets/fb3bf474-7040-4c75-9d64-91e0d8d72641" />
 
-And yeah everything worked smoothly so now we can be able to move forward and configure the same ip connection with other OS systems.
+And yeah everything worked smoothly so now we are able to move forward and configure the same ip connection with other OS systems.
 
 
 ---

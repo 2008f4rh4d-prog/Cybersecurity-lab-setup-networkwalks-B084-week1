@@ -78,6 +78,7 @@ Click that tabs.
 
 <img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/ab9a03b7-d682-4a91-8c8f-2b6f8a02405c" />
 
+
 Then navigate to this and use the same settings and click apply.
 
 <img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/e14c0b44-8e62-414e-8c12-8523010d4fdf" />
@@ -86,14 +87,7 @@ Then navigate to this and use the same settings and click apply.
 ```
 ### Phase 4: Working with kali linux 
 
-Start you kali linux machine and Move to there. 
-
-
-
-
-
-
-Use the same settings.
+Start you kali linux machine and Move to there.
 
 
 
@@ -101,6 +95,8 @@ Use the same settings.
 
 
 
+
+Use the same settings
 
 
 
